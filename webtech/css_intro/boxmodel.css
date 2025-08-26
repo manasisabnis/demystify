@@ -1,0 +1,71 @@
+.styll{
+    background-image:url("panda.jpg");
+    background-position: top left;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.layer1{
+    top:0px;
+    left:0px;
+    border:3px solid red;
+    background-color: plum;
+    padding:10px;
+    z-index:1;
+}
+.layer2{
+    top:50px;
+    left:25px;
+    border: 3px solid blue;
+    background-color: aqua;
+    padding:10px;
+    width: 100px;
+    height:200px;
+    z-index:2;
+
+}
+.layer3{
+    top:100px;
+    left:25px;
+    border: 3px solid rgb(81, 81, 146);
+    background-color: rgb(216, 186, 36);
+    padding:10px;
+    width: 100px;
+    height:200px;
+    z-index:3;
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 2px solid rgb(194, 66, 66);
+    margin: 20px;
+    background-color: rgb(237, 237, 187);
+    border-style: dotted;
+    border-radius: 15px;
+    margin: 0px;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 2px solid rgb(39, 39, 64);
+    margin: 20px;
+    background-color: palevioletred;
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 2px solid rgb(20, 130, 152);
+    margin: 20px;
+    background-color: rgb(210, 25, 86);
+}
+.box4{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 2px solid rgb(20, 130, 152);
+    margin: 20px;
+    background-color: rgb(210, 25, 86);
+}

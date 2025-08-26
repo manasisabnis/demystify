@@ -1,0 +1,12 @@
+div p{
+    color:navajowhite;
+    font-size:20pt;
+}
+div>p{
+    color:hotpink;
+    background-color: tan;
+
+}
+h1+p{
+    text-transform:uppercase;
+}

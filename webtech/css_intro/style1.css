@@ -1,0 +1,22 @@
+h1
+{color:green;font-family:Times New Roman;}
+body{
+    background-color:rgb(193, 76, 96);
+    background-image:url("logo512.png");
+
+}
+p{margin:20px;
+    text-align:center;
+    font-family:Arial; 
+    font-size:30pt;
+    font-weight:20pt;
+    font-style:italic;
+    font-variant:capitalize;
+    padding: 20pt;
+    word-spacing:10pt;
+    text-align:right;
+    text-decoration:overline;
+}   
+h3{
+    text-decoration:none;
+}
